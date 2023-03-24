@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ganesh kakade</h1>
 <h3 align="center">I'm a Data Science Enthusiast👨‍💻</h3>
-<h6 align="left">🏅 I recently completed my Data Science studies from Skillovilla</br>
-🏅 I have worked in Johnson Controls for 1.5 years as Senior Design engineer </br>
+<h6 align="left">
+🏅 I am currently working at iNeuron.ai as Data Scientist Intern</br>
+🏅 I recently completed my Data Science studies from Skillovilla</br>
+🏅 I have worked in Johnson Controls for 1.5 years as Senior Design Analyst </br>
 🎓 I have completed my BE from AISSMS IOIT</br>
 ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.</br>
 🤔 My interests are in Data Science,Machine Learning,Web development and econometrics.</br>
